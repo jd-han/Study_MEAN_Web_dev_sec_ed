@@ -1,0 +1,24 @@
+{
+  "name": "study_mean",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.15.3",
+    "grunt": "1.0.1"
+  },
+  "description": "study_mean",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd-han/Study_MEAN_Web_dev_sec_ed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jd-han/Study_MEAN_Web_dev_sec_ed/issues"
+  },
+  "homepage": "https://github.com/jd-han/Study_MEAN_Web_dev_sec_ed#readme"
+}
