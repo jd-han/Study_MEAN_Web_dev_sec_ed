@@ -2,8 +2,7 @@
   "name": "study_mean",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.15.3",
-    "grunt": "1.0.1"
+    "express": "4.15.3"
   },
   "description": "study_mean",
   "main": "server.js",
