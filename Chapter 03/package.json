@@ -2,7 +2,12 @@
   "name": "study_mean",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.15.3"
+    "express": "4.15.3",
+    "body-parser": "1.17.2",
+    "compression": "1.6.2",
+    "method-override": "2.3.9",
+    "morgan": "1.8.2"
+
   },
   "description": "study_mean",
   "main": "server.js",
